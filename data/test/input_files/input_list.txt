@@ -1,0 +1,3 @@
+/scratch4/blangme2/oahmed/doc_array/test/input_files/document_0.fa 1
+/scratch4/blangme2/oahmed/doc_array/test/input_files/document_1.fa 2
+/scratch4/blangme2/oahmed/doc_array/test/input_files/document_2.fa 3
